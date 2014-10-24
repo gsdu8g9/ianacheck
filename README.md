@@ -1,4 +1,4 @@
 ianacheck
 =========
 
-Check IANA server for whois servers that user prefer
+ianacheck is a php script for checking whois servers for preferred zones on IANA server whois.iana.org

@@ -3,7 +3,7 @@ ianacheck
  
 Tool for finding whois servers for setted zones.
 Written by noys (https://github.com/noys).
-Based on **php-whois** (https://github.com/regru/php-whois).
+Based on php-whois (https://github.com/regru/php-whois).
    
 To get result:   
 --------------   

@@ -59,8 +59,6 @@ foreach($zones as $zone)
 		fclose($fh);
 	}
 	
-	$current_answer = preg_replace("~%.*\r?\n?|#.*\r?\n?~", '', $current_answer);
-	
 	echo "<pre>$current_answer</pre>";
 	
 	unset($root_answer);

@@ -2,8 +2,10 @@ ianacheck
 =========
 
 tool for finding whois servers for setted zones and whois of that servers of sample domain
+
 written by noys (https://github.com/noys/)
 based on *php-whois* (https://github.com/regru/php-whois)   
+
 
 to get result:
 --------------   

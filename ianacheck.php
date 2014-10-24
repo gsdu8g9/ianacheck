@@ -12,7 +12,7 @@
 #  - fill array $zones with zones that you need to get         #
 #    whois servers from                                        #
 #  - enter some existing or not existing domain in $domain var #
-#    but just domain without domain zone (TLD) to get whois    #
+#    (just domain without domain zone (TLD)) to get whois      #
 #    of domain from zone's whois server	                       #
 #  - put this file on server and open it in browser            #
 #                                                              #

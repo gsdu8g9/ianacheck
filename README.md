@@ -1,7 +1,7 @@
 ianacheck   
 =========
  
-Tool for finding whois servers of setted domain zones from root IANA whois server
+Tool for finding whois servers of setted domain zones from root IANA whois server.
 Written by noys (https://github.com/noys).
 Based on php-whois (https://github.com/regru/php-whois).
    
